@@ -310,24 +310,7 @@ If you have any questions about contributing, setting up the project, or the arc
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**. This is a permissive free software license, meaning it places very few restrictions on reuse. See the accompanying [LICENSE](LICENSE) file (if present) for complete details.
-
-### What this means for you:
-
-| Right | Description |
-| :--- | :--- |
-| ✅ **Commercial Use** | You can use this software for commercial purposes. |
-| ✅ **Modification** | You can modify the source code to suit your needs. |
-| ✅ **Distribution** | You can distribute the original or modified code. |
-| ✅ **Private Use** | You are free to use this project privately. |
-| ⚠️ **Liability** | The software is provided "as is," without warranty of any kind. The authors or copyright holders are not liable for any claims or damages. |
-| ⚠️ **Trademark** | The license does not grant rights to use the names, trademarks, or service marks of the contributors. |
-
----
-
-<p align="center">Made with ❤️ using Java, Spring Boot, and Maven.</p>
+<p align="center">Made by Ravindra Singh Pokhriyal using Java, Spring Boot, and Maven.</p>
 <p align="center">
   <a href="#">⬆️ Back to Top</a>
 </p>
