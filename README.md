@@ -6,7 +6,7 @@
   <img alt="Project Stage" src="https://img.shields.io/badge/Status-Development-yellowgreen?style=for-the-badge">
   <img alt="Dependencies" src="https://img.shields.io/badge/Dependencies-Up%20to%20Date-blue?style=for-the-badge">
   <img alt="Language" src="https://img.shields.io/badge/Language-Java%2021-red?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  
 </p>
 <!-- 
   **Note:** These are static placeholder badges. Replace them with your project's actual, live badges generated upon deployment and continuous integration.
